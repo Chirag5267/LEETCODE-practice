@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
