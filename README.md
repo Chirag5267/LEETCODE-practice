@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
