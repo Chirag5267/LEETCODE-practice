@@ -21,10 +21,12 @@
 | [0169-majority-element](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0014-longest-common-prefix) |
+| [0389-find-the-difference](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
