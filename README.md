@@ -62,10 +62,12 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0389-find-the-difference) |
 ## Two Pointers
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
