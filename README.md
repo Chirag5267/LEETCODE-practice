@@ -13,6 +13,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Chirag5267/LEETCODE-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
