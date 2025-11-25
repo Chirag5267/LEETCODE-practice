@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0389-find-the-difference) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Chirag5267/LEETCODE-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
