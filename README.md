@@ -17,6 +17,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Chirag5267/LEETCODE-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Chirag5267/LEETCODE-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Chirag5267/LEETCODE-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Chirag5267/LEETCODE-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
