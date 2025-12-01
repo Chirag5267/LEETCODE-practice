@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0605-can-place-flowers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
