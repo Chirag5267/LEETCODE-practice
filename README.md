@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0605-can-place-flowers) |
+| [1470-shuffle-the-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1929-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
