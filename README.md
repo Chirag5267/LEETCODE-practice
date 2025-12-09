@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0605-can-place-flowers) |
 | [1480-running-sum-of-1d-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1929-concatenation-of-array) |
