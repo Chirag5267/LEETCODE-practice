@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0475-heaters](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0645-set-mismatch) |
@@ -58,6 +59,7 @@
 | [0217-contains-duplicate](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0389-find-the-difference) |
+| [0475-heaters](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
@@ -81,6 +83,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
+| [0475-heaters](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0475-heaters) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0344-reverse-string) |
+| [0475-heaters](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0475-heaters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
