@@ -17,7 +17,7 @@ class Solution {
         return maxProfit;
 
     }
-}        //TLE 
+}        //TLE(BRUTE FORCE)
         // int n=prices.length;
         // int maxProfit=0;
         // for(int i=0;i<n;i++){
