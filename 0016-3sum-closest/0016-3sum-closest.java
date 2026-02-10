@@ -8,14 +8,15 @@ class Solution {
                 for (int k = j + 1; k<n; k++) {
 
                     int sum = nums[i] + nums[j] + nums[k];
-
-                    int diffSum = sum - target;
-                    if (diffSum < 0) diffSum = -diffSum;
-
-                    int diffClosest = closestSum - target;
-                    if (diffClosest < 0) diffClosest = -diffClosest;
-
-                    if (diffSum < diffClosest) {
+                    int CurrentDiff = sum - target;
+                    int ClosestDiff = closestSum - target;
+                    if (CurrentDiff < 0) {
+                        CurrentDiff = -CurrentDiff;  // negative to postive
+                    }
+                    if (ClosestDiff < 0){
+                         ClosestDiff = -ClosestDiff;
+                    }   
+                    if (CurrentDiff < ClosestDiff) {
                         closestSum = sum;
                     }
                 }
