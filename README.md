@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0344-reverse-string) |
