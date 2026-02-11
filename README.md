@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0198-house-robber) |
@@ -94,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
