@@ -98,6 +98,7 @@
 | [0062-unique-paths](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Chirag5267/LEETCODE-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -150,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
