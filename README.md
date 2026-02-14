@@ -165,4 +165,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
