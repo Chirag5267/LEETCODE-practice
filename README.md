@@ -169,4 +169,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
