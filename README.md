@@ -130,6 +130,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
 ## Prefix Sum
@@ -173,6 +174,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
