@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Linked List
 |  |
