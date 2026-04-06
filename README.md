@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0605-can-place-flowers) |
 ## Memoization
 |  |
