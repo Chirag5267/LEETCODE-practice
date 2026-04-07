@@ -6,10 +6,10 @@ class Solution {
         for(int i=0;i<gas.length;i++){
             int left=gas[i]-cost[i];
             total=total+left;
-            tank=tank+left;
+            tank=tank+left; //curent sitation of petrol
 
             if (tank<0){
-                start=i+1;
+                start=i+1; //if negative reset
                 tank=0;
             }
         }
