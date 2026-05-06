@@ -99,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
