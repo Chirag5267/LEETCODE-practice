@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0605-can-place-flowers) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0475-heaters) |
 ## Math
 |  |
@@ -195,4 +197,16 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
