@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0134-gas-station) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Chirag5267/LEETCODE-practice/tree/master/0258-add-digits) |
